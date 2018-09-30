@@ -1,0 +1,24 @@
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 1px solid !important;
+}
+
+.section-follow .fa-4x {
+  margin: 4px 10px;
+}
+
+.transparent-background {
+  background: rgba(0, 0, 0, 0.4);
+  padding: 10px !important;
+  width: 100%;
+  text-align: center;
+}
+
+.white-background {
+  background: rgba(255, 255, 255, 0.4);
+  padding: 10px !important;
+  /*width: 100%;*/
+  /*text-align: center;*/
+}
